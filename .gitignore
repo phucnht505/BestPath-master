@@ -1,0 +1,5 @@
+BestPath-master/.idea/
+BestPath-master/__pycache__/
+BestPath-master/*.pyc
+BestPath-master/log.txt
+BestPath-master/routes_log.xlsx
